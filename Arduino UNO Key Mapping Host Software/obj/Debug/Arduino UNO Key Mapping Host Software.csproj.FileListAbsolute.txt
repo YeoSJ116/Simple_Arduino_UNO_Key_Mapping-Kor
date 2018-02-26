@@ -1,0 +1,11 @@
+C:\Users\KIRISA\source\repos\Arduino+UNO+Key+Mapping+Host+Software+1.0.0r+-+Kor\Arduino UNO Key Mapping Host Software\bin\Debug\Arduino UNO Key Mapping Host Software.exe.config
+C:\Users\KIRISA\source\repos\Arduino+UNO+Key+Mapping+Host+Software+1.0.0r+-+Kor\Arduino UNO Key Mapping Host Software\bin\Debug\Arduino UNO Key Mapping Host Software.exe
+C:\Users\KIRISA\source\repos\Arduino+UNO+Key+Mapping+Host+Software+1.0.0r+-+Kor\Arduino UNO Key Mapping Host Software\bin\Debug\Arduino UNO Key Mapping Host Software.pdb
+C:\Users\KIRISA\source\repos\Arduino+UNO+Key+Mapping+Host+Software+1.0.0r+-+Kor\Arduino UNO Key Mapping Host Software\obj\Debug\Arduino_UNO_Key_Mapping_Host_Software.Form1.resources
+C:\Users\KIRISA\source\repos\Arduino+UNO+Key+Mapping+Host+Software+1.0.0r+-+Kor\Arduino UNO Key Mapping Host Software\obj\Debug\Arduino_UNO_Key_Mapping_Host_Software.Programe_Info.resources
+C:\Users\KIRISA\source\repos\Arduino+UNO+Key+Mapping+Host+Software+1.0.0r+-+Kor\Arduino UNO Key Mapping Host Software\obj\Debug\Arduino_UNO_Key_Mapping_Host_Software.Properties.Resources.resources
+C:\Users\KIRISA\source\repos\Arduino+UNO+Key+Mapping+Host+Software+1.0.0r+-+Kor\Arduino UNO Key Mapping Host Software\obj\Debug\Arduino UNO Key Mapping Host Software.csproj.GenerateResource.Cache
+C:\Users\KIRISA\source\repos\Arduino+UNO+Key+Mapping+Host+Software+1.0.0r+-+Kor\Arduino UNO Key Mapping Host Software\obj\Debug\Arduino UNO Key Mapping Host Software.csproj.CoreCompileInputs.cache
+C:\Users\KIRISA\source\repos\Arduino+UNO+Key+Mapping+Host+Software+1.0.0r+-+Kor\Arduino UNO Key Mapping Host Software\obj\Debug\Arduino UNO Key Mapping Host Software.exe
+C:\Users\KIRISA\source\repos\Arduino+UNO+Key+Mapping+Host+Software+1.0.0r+-+Kor\Arduino UNO Key Mapping Host Software\obj\Debug\Arduino UNO Key Mapping Host Software.pdb
+C:\Users\KIRISA\source\repos\Arduino+UNO+Key+Mapping+Host+Software+1.0.0r+-+Kor\Arduino UNO Key Mapping Host Software\obj\Debug\Arduino UNO Key Mapping Host Software.csprojResolveAssemblyReference.cache
